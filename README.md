@@ -24,7 +24,7 @@ AI-Powered Resume Screening And Ranking System is an AI-driven platform that aut
 
 ## How to Use
 1. Clone the repository to your local machine:
-   git clone https://github.com/yourusername/AI-Powered_Resume_Screening_And_Ranking_System.git
+   git clone [https://github.com/Apoorv7777/AI-Powered_Resume_Screening_And_Ranking_System.git
    cd AI-Powered_Resume_Screening_And_Ranking_System
 
 2. Run pip install -r requirements.txt

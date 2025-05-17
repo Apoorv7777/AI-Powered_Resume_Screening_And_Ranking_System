@@ -1,0 +1,51 @@
+ob Title: Data Analyst
+
+Job Summary: We are looking for a detail-oriented and analytical Data Analyst to join our team. In this role, you will work with large datasets to extract, clean, and analyze data, providing actionable insights to guide decision-making across various departments.
+
+Key Responsibilities:
+
+Collect, clean, and organize data from various sources (e.g., databases, spreadsheets, and APIs).
+
+Analyze large datasets to identify trends, patterns, and anomalies.
+
+Develop and maintain dashboards, reports, and visualizations to communicate findings to stakeholders.
+
+Collaborate with teams (marketing, finance, operations, etc.) to understand their data needs and provide data-driven recommendations.
+
+Create detailed reports that summarize findings and offer actionable insights.
+
+Perform statistical analysis and build models to forecast trends and predict outcomes.
+
+Ensure data accuracy, integrity, and consistency across systems and sources.
+
+Support data-driven decision-making through data visualization and storytelling.
+
+Assist in automating reports and data pipelines for efficiency.
+
+Skills and Qualifications:
+
+Bachelor's degree in a relevant field (e.g., Computer Science, Statistics, Mathematics, Economics).
+
+Proficiency in data analysis tools and software (e.g., Excel, SQL, Python, R).
+
+Experience with data visualization tools (e.g., Tableau, Power BI).
+
+Strong knowledge of statistical analysis techniques and methods.
+
+Ability to work with large datasets and perform data wrangling.
+
+Excellent problem-solving skills and attention to detail.
+
+Strong communication skills, with the ability to present complex data in an understandable way to non-technical stakeholders.
+
+Knowledge of machine learning and predictive modeling is a plus.
+
+Experience in industry-specific tools or platforms may be required (e.g., Google Analytics for marketing data analysis).
+
+Preferred Experience:
+
+Experience working with cloud-based data storage (e.g., AWS, Google Cloud, Azure).
+
+Familiarity with data automation tools and programming languages (e.g., Python, R, SQL).
+
+Knowledge of business intelligence tools and techniques.
